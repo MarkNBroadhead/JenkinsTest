@@ -5,6 +5,7 @@
 module.exports = {
   // MongoDB connection options
   mongo: {
+  	//TEST
     uri: 'mongodb://qninjaadmin:efe098b2jbid2lkfb90bsalsdfas@ds035300.mongolab.com:35300/qninja'
   }
 };
